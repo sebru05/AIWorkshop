@@ -24,3 +24,14 @@ For the extra-credit activity, I explored the Linux commands `cat` and `tail`.
 - `mytail.js` displays the last 10 lines of a file.
 
 I tested both programs using `server.log`. I also used AI to help understand the commands, develop the JavaScript implementations, and troubleshoot errors. I verified the programs by running them in the Codio terminal.
+## Fancy Command
+
+For the main activity, I created a custom command called `fancy.js`.
+It combines the functionality of `grep` and `head`.
+
+The command searches a file for a specified pattern and displays the first 10 matching lines.
+
+### Usage
+
+```bash
+node fancy.js <PATTERN> <FILENAME>
