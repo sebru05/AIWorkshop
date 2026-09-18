@@ -1,0 +1,12 @@
+INFO Server started successfully
+INFO Database connection established
+ERROR Database connection failed
+WARNING High memory usage detected
+INFO User logout successful
+ERROR Failed to process payment
+INFO Payment processed successfully
+WARNING CPU usage above 80 percent
+INFO Backup started
+ERROR Backup failed
+INFO Backup retry started
+INFO Backup completed successfully
