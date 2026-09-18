@@ -16,3 +16,11 @@ I tested the programs using a `server.log` file. I tested `mygrep.js` with `INFO
 ## AI Assistance
 
 I used AI to help understand the programming concepts, debug errors, and create test cases. I verified the suggestions by running and testing the code myself.
+## Extra Credit
+
+For the extra-credit activity, I explored the Linux commands `cat` and `tail`.
+
+- `mycat.js` displays the contents of a file.
+- `mytail.js` displays the last 10 lines of a file.
+
+I tested both programs using `server.log`. I also used AI to help understand the commands, develop the JavaScript implementations, and troubleshoot errors. I verified the programs by running them in the Codio terminal.
